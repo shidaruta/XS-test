@@ -1,0 +1,9 @@
+/* test.css */
+body::before {
+  content: "✅ External CSS Loaded!";
+  display: block;
+  background: #ffe;
+  color: #000;
+  padding: 10px;
+  font-size: 18px;
+}
