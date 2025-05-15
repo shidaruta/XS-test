@@ -2,8 +2,8 @@
 body::before {
   content: "✅ External CSS Loaded!";
   display: block;
-  background: #ffe;
-  color: #000;
+  background: #48c262;
+  color: #FF0000;
   padding: 10px;
   font-size: 18px;
 }
